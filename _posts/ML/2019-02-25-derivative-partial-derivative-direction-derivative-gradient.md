@@ -13,7 +13,7 @@ keywords: 偏导数，梯度
 * 偏导数：在xOy平面上，由平行于x轴或y轴的直线在曲面上所确定的曲线在A点处的切线的斜率
 * 方向导数：在xOy平面上，以曲面上A点在平面xOy上的投影点为起点的射线在曲面上所确定的曲线在A点的斜率
 * 总的来说，偏导数，方向导数和全导数是由曲面上过A点的不同曲线来确定的
-* 在A点的梯度就是由A点的偏导数`\(\frac{\partial{f}}{\partial{x}}\)`与`\(\frac{\partial{f}}{\partial{y}}\)`构成的向量`\((\frac{\partial{f}}{\partial{x}}, \frac{\partial{f}}{\partial{y}})\)`，A点处所有方向导数中最大的方式导数的方向与A点处的梯度方向一致，且其值等于梯度的模（证明见百度百科：梯度）
+* 在A点的梯度就是由A点的偏导数$\frac{\partial{f}}{\partial{x}}$与$\frac{\partial{f}}{\partial{y}}$构成的向量$(\frac{\partial{f}}{\partial{x}}, \frac{\partial{f}}{\partial{y}})$，A点处所有方向导数中最大的方式导数的方向与A点处的梯度方向一致，且其值等于梯度的模（证明见百度百科：梯度）
 
 
 详细图片解释可见马同学在知乎上关于什么是全导数的解答(https://www.zhihu.com/question/26966355/answer/154857139)
