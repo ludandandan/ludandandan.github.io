@@ -31,10 +31,10 @@ $$s.t. \qquad \alpha_{i}\ge 0, i=1,2,...,k$$
 
 **定理C.2**
 
-假设函数$f(x)$与不等式约束条件$c_{i}(x)$是凸函数，等式约束条件$h_{j}$是仿射函数，并且不等式约束$c_{i}(x)$是严格可行的，即存在$x$，对所有$i$有$c_{i}(x)\le0$，则存在$x^{*}, \alpha^{*}, \beta^{*}$，使$x^{*}$是原始问题的解，$\alpha^{*}, \beta^{*}$是对偶问题的解，并且有:
+假设函数$f(x)$与不等式约束条件$c_{i}(x)$是凸函数，等式约束条件$h_{j}$是仿射函数，并且不等式约束$c_{i}(x)$是严格可行的，即存在$x$，对所有$i$有$c_{i}(x)\le0$，则存在$x^{\star}, \alpha^{\star}, \beta^{\star}$，使$x^{\star}$是原始问题的解，$\alpha^{\star}, \beta^{\star}$是对偶问题的解，并且有:
 $$p^{*}=d^{*}=\mathcal{L}(x,\alpha,\beta)\tag{C.10}$$
 
-在求解过程中用到**定理C.3**的**KKT条件**建立方程组：$x^{*}, \alpha^{*}, \beta^{*}$分别是原始问题和对偶问题的解的充分必要条件是满足$x^{*}, \alpha^{*}, \beta^{*}$满足下面的 **Karush-Kuhn-Tucker(KKT)** 条件：
+在求解过程中用到**定理C.3**的**KKT条件**建立方程组：$x^{\star}, \alpha^{\star}, \beta^{\star}$分别是原始问题和对偶问题的解的充分必要条件是满足$x^{\star}, \alpha^{\star}, \beta^{\star}$满足下面的 **Karush-Kuhn-Tucker(KKT)** 条件：
 
 首先对拉格朗日函数对各个参数求偏导等于0：
 $$\nabla_{x}\mathcal{L}(x,\alpha,\beta)=0$$
